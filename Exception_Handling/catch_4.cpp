@@ -6,6 +6,7 @@ class myexception1: exception
 class myexception2:public myexception1
 {
 };
+
 int main()
 {
 	try
