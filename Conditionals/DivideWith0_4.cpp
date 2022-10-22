@@ -10,8 +10,6 @@ int main(){
     else{
         c=n/m;
         cout<<c;
-    }
-    
-     
+    } 
     return 0;
 }
