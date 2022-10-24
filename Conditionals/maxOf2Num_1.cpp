@@ -12,6 +12,5 @@ int main(){
     else{
         cout<<"Marks for 2nd is greater than 1st";
     }
-     
     return 0;
 }
